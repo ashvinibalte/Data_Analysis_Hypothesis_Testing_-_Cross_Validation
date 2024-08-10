@@ -1,4 +1,4 @@
-<h1><b>Data Analysis, Hypothesis Testing, and Cross-Validation</b></h1>
+<h1><b>Data Analysis Hypothesis Testing, and Cross-Validation</b></h1>
 Welcome to the Data Analysis, Hypothesis Testing, and Cross-Validation repository! This project focuses on key concepts in statistical analysis, including hypothesis testing and cross-validation, which are fundamental techniques for making data-driven decisions and validating machine learning models.
 
 <h1><b>Table of Contents</b></h1>
